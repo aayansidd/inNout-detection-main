@@ -1,0 +1,2 @@
+# AEGIS offline IOC list (sha256), demo entry for holiday_photo.jpg.exe
+3a4a0948413dad15be6e7ef3231f3ad51ef9a76051fe8b6a86d1fcc9ed9d49b5

@@ -1,0 +1,19 @@
+.env
+.venv/
+__pycache__/
+node_modules/
+dist/
+*.aegisq
+backend/data/
+qa_demo/sample_usb_drive/
+.pytest_cache/
+.ruff_cache/
+*.tsbuildinfo
+frontend/.env
+env.txt
+*.env.txt
+
+# BMAD tooling and run scratch: only the generated docs are committed
+_bmad/
+_bmad-output/
+.claude/skills/
